@@ -1,0 +1,28 @@
+DLL version: 2.7.0
+Friday, September 21, 2018 16:02:10   Start new logging
+ModuleID[2] LevelID[10]: CMyExceptionHandler thread is running
+ModuleID[2] LevelID[1]: new MxHidDeviceClass
+ModuleID[2] LevelID[10]: new MxHidDevice[017BE288]
+ModuleID[2] LevelID[1]: new MxHidDeviceClass
+ModuleID[2] LevelID[10]: new MxHidDevice[017BE708]
+ModuleID[2] LevelID[1]: new MxHidDeviceClass
+ModuleID[2] LevelID[10]: new MxHidDevice[01741FD8]
+ModuleID[2] LevelID[1]: new MxHidDeviceClass
+ModuleID[2] LevelID[10]: new MxHidDevice[01742290]
+ModuleID[2] LevelID[1]: new MxHidDeviceClass
+ModuleID[2] LevelID[10]: new MxHidDevice[01742BD0]
+ModuleID[2] LevelID[1]: new MxHidDeviceClass
+ModuleID[2] LevelID[10]: new MxHidDevice[06824FB8]
+ModuleID[2] LevelID[1]: new MxHidDeviceClass
+ModuleID[2] LevelID[10]: new MxHidDevice[06825438]
+ModuleID[2] LevelID[10]: Device Manager thread is running
+ModuleID[2] LevelID[1]: Can't set m_hStopEvent before it initialized or it already stop
+
+ModuleID[2] LevelID[10]: CCmdOpreation[0] thread is Closed
+ModuleID[2] LevelID[10]: CCmdOpreation[0] thread is Closed
+ModuleID[2] LevelID[10]: DeviceManager::OnMsgDeviceEvent() - EVENT_KILL
+ModuleID[2] LevelID[10]: CMyExceptionHandler::OnMsgExceptionEvent() - KillExceptionHandlerThread
+ModuleID[2] LevelID[10]: Exception Handler thread is closed
+ModuleID[2] LevelID[1]: delete MxHidDeviceClass
+ModuleID[2] LevelID[10]: delete MxHidDevice[06825438]
+ModuleID[2] LevelID[10]: Device Manager thread is closed
